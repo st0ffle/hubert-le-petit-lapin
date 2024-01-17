@@ -1,0 +1,27 @@
+{
+  "name": "treasure-hunt",
+  "version": "1.0.0",
+  "description": "Dans cet exercice, vous allez créer une application Express qui simule une chasse au trésor. Votre application Express doit avoir plusieurs routes qui représentent différentes \"zones\" dans la chasse au trésor. Chaque zone peut contenir soit un indice pour la prochaine zone, soit le trésor lui-même.\r Tu as un exemple ici => https://hubert-le-lapin-6f94e3efd3fa.herokuapp.com/",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node-dev index --clear --notify=false",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-DWA-Qilin/exos-treasure-hunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/O-clock-DWA-Qilin/exos-treasure-hunt/issues"
+  },
+  "homepage": "https://github.com/O-clock-DWA-Qilin/exos-treasure-hunt#readme"
+}
