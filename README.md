@@ -1,7 +1,6 @@
 # Chasse au trésor
 
 Dans cet exercice, vous allez créer une application Express qui simule une chasse au trésor. Votre application Express doit avoir plusieurs routes qui représentent différentes "zones" dans la chasse au trésor. Chaque zone peut contenir soit un indice pour la prochaine zone, soit le trésor lui-même.
-Tu as un exemple ici => https://hubert-le-lapin-6f94e3efd3fa.herokuapp.com/
 
 ## Exercice 1 - Comprendre l'existant
 
